@@ -8,10 +8,11 @@ img{
 body{
   color:darkgreen;
   background-color:rgba(128, 128, 128, 0.694);
+  font-family:Tahoma, sans-serif; 
 }
 
 .profile{
-  width: 35%;
+  width: 40%;
   float: right;
   color:white;
   background-color: black;
