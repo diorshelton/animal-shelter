@@ -1,10 +1,12 @@
 h1{
   text-align: center;
 }
+
 img{
   height: auto;
   width: 50%;
 }
+
 body{
   color:darkgreen;
   background-color:rgba(128, 128, 128, 0.694);
@@ -23,3 +25,16 @@ body{
   font-size: 20px;
 }
 
+@media screen and (max-width:580px) {
+  body {
+    background-color: black;
+  }
+  .profile{
+    width:30%;
+    float:right;
+    color: darkgreen
+  }
+  
+  }
+
+}
